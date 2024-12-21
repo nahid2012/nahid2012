@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahid2012
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Web Development
+- 🌱 I’m currently learning Back End Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nahidshah2012@gmail.com
 - 😄 Pronouns: ...
